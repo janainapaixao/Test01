@@ -13,7 +13,7 @@ class PeopleController extends Controller
      */
     public function index()
     {
-        echo 'oi';
+        echo 'TEste2';
     }
 
 
